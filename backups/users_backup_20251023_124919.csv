@@ -1,0 +1,8 @@
+id,first_name,middle_name,last_name,email,phone,role_id,status,last_login
+6751b4f4-7b76-43dc-afe3-b670fc66e789,aaa,S,Patel,rakshitha@example.com,9876543210,role-001,Active,
+69a0e42b-0fe9-4c53-9efb-636c1a98e204,Raghav,S,Patel,raghav@example.com,9876543210,user-001,Active,
+6f617641-3ea4-47d6-9c99-37d37de9c344,Rakshitha,s,am,rakshithaam03@gmail.com,6362291139,admin-001,Active,2025-10-23 12:47:46
+831d6f03-0436-41f3-84f4-c03f49ed16c3,Pranavi,S,am,pranavimahesh04@gmail.com,9876543210,role-001,Active,
+856d305d-37f3-4ce6-a8be-292de474c66e,Rakshitha,S,Patel,rakshitha123@example.com,9876543210,admin-001,Active,
+8b80acfb-3e59-48b6-baac-f1f8f9d1bca5,chitra,Ss,kkkk,chitragangadhara2002@gmail.com,9876543210,user-011,Active,2025-10-23 12:42:33
+c4013a97-dfd5-47ca-a9e8-099d684afb59,Varsha,S,Patel,varshavenugopal37@gmail.com,9876543210,user-001,Active,2025-10-23 08:55:38
